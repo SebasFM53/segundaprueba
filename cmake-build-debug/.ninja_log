@@ -1,0 +1,6 @@
+# ninja log v5
+1	242	1705531439844287787	CMakeFiles/segundaprueba.dir/src/AAAAA.cpp.o	a105fb48c3949aff
+2	1753	1705531441357656643	CMakeFiles/segundaprueba.dir/src/Main.cpp.o	55e5b2e757ec5f84
+1757	1968	1705531441574107505	segundaprueba	6a5baf9b3d57cf32
+5	79	1705531606383979390	CMakeFiles/segundaprueba.dir/src/AAAAA.cpp.o	a105fb48c3949aff
+80	239	1705531606545382543	segundaprueba	6a5baf9b3d57cf32

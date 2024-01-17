@@ -1,0 +1,3 @@
+/Users/sebasmac/Documents/GitHub/segundaprueba/cmake-build-debug/CMakeFiles/segundaprueba.dir
+/Users/sebasmac/Documents/GitHub/segundaprueba/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sebasmac/Documents/GitHub/segundaprueba/cmake-build-debug/CMakeFiles/rebuild_cache.dir
